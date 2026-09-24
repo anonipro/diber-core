@@ -1,5 +1,10 @@
 # DIBER Core
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/ANONIPRO/diber-core?color=blue)](https://github.com/ANONIPRO/diber-core/releases)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-blue.svg)](https://nodejs.org/)
+[![Zero AI Judge](https://img.shields.io/badge/AI--Judge-Zero%20(Deterministic)-10b981.svg)](#why-diber)
+
 **Deterministic LLM Audit Engine.**
 
 DIBER is a structural evaluation engine for Large Language Model (LLM) outputs.
