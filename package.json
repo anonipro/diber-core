@@ -1,0 +1,14 @@
+{
+  "name": "@anonipro/diber-core",
+  "version": "0.3.0",
+  "description": "ANONIPRO_DIBER Core - Deterministic auditing engine for LLMs.",
+  "main": "engine.js",
+  "bin": {
+    "diber": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node bin/cli.js evaluate --truth ./tests/gt.json --evals ./tests/runs.json"
+  },
+  "author": "ANONIPRO_DIBER",
+  "license": "MIT"
+}
