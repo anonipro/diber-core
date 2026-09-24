@@ -1,6 +1,6 @@
 {
   "name": "@anonipro/diber-core",
-  "version": "0.3.0",
+  "version": "0.9.0",
   "description": "ANONIPRO_DIBER Core - Deterministic auditing engine for LLMs.",
   "main": "engine.js",
   "bin": {
