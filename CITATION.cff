@@ -3,22 +3,21 @@ title: "DIBER Core"
 message: "If you use DIBER Core in research, benchmarking, software or other work, please cite this project."
 type: software
 authors:
-
-* family-names: "Woszczyk"
-  given-names: "Artur"
-  affiliation: "AnoniPRO"
-  repository-code: "https://github.com/ANONIPRO/diber-core"
-  url: "https://github.com/ANONIPRO/diber-core"
-  license: "MIT"
-  version: "0.9.0"
-  date-released: "2026-09-25"
-  abstract: "Deterministic evaluation engine for Large Language Model outputs using explicit Ground Truth, human-defined classifications, deterministic weighting, controlled comparisons, statistical aggregation and audit information without LLM-as-a-Judge."
-  keywords:
-* LLM evaluation
-* AI evaluation
-* deterministic evaluation
-* LLM testing
-* benchmarking
-* hallucination
-* Ground Truth
-* AI audit
+  - family-names: "Woszczyk"
+    given-names: "Artur"
+    affiliation: "AnoniPRO"
+repository-code: "https://github.com/ANONIPRO/diber-core"
+url: "https://github.com/ANONIPRO/diber-core"
+license: "MIT"
+version: "0.9.0"
+date-released: "2026-09-25"
+abstract: "Deterministic evaluation engine for Large Language Model outputs using explicit Ground Truth, human-defined classifications, deterministic weighting, controlled comparisons, statistical aggregation and audit information without LLM-as-a-Judge."
+keywords:
+  - "LLM evaluation"
+  - "AI evaluation"
+  - "deterministic evaluation"
+  - "LLM testing"
+  - "benchmarking"
+  - "hallucination"
+  - "Ground Truth"
+  - "AI audit"
