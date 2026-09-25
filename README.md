@@ -388,12 +388,12 @@ report
 ├── audit
 ├── run_count
 ├── runs
-│   └── [0] (Singolo Run)
-│       ├── metrics (Qualità, Copertura, Errori)
-│       ├── profile (Profilo di esecuzione strutturato)
-│       ├── normalized (Valutazioni Ground Truth)
-│       ├── extra_claims (Allucinazioni fuori perimetro)
-│       └── relations (Analisi logica)
+│   └── [0] (Single Run)
+│       ├── metrics (Quality, Coverage, Errors)
+│       ├── profile (Structured execution profile)
+│       ├── normalized (Ground Truth evaluations)
+│       ├── extra_claims (Unsupported extra claims)
+│       └── relations (Logical consistency analysis)
 ├── invalid_runs
 ├── missing_evaluations
 ├── unresolved_configuration_runs
