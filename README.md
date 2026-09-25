@@ -6,6 +6,7 @@
 [![Zero AI Judge](https://img.shields.io/badge/AI--Judge-Zero%20\(Deterministic\)-10b981.svg)](#why-diber)
 
 **Deterministic LLM Audit Engine.**
+> **Current release: v0.9.0**
 
 DIBER is a structural evaluation engine for Large Language Model (LLM) outputs.
 
@@ -24,6 +25,14 @@ The same structured inputs always produce the same evaluation report.
 * **Auditability:** Invalid runs, missing evaluations, unresolved experimental identities, excluded relations, and truncated comparisons remain visible in the final report.
 * **CI/CD Ready:** Deterministic metrics can be used to enforce quality gates in automated testing and deployment pipelines.
 * **Privacy First:** The core engine runs locally and does not send prompts, responses, Ground Truth data, or evaluation data to external APIs.
+
+## Project Status
+
+DIBER Core is currently in active development.
+
+Version `v0.9.0` is the current public release of the deterministic evaluation engine.
+
+The evaluation methodology is intentionally explicit and inspectable. Feedback, edge cases, implementation issues and methodological criticism are welcome.
 
 ## Installation
 
